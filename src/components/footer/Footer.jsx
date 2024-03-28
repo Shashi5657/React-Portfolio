@@ -31,21 +31,21 @@ const Footer = () => {
           <a
             href="https://www.linkedin.com/in/shashidharsangepu/"
             className="footer__social-link"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <i class="bx bxl-linkedin"></i>
           </a>
           <a
             href="https://github.com/Shashi5657"
             className="footer__social-link"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <i class="bx bxl-github"></i>
           </a>
           <a
             href="https://www.instagram.com/mr.villain29/"
             className="footer__social-link"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <i className="bx bxl-instagram"></i>
           </a>
