@@ -4,6 +4,7 @@
   align-items: center;
   column-gap: 0.75rem;
   margin-bottom: var(--mb-2);
+  cursor: pointer;
 }
 
 .project__item {
@@ -60,6 +61,7 @@
 
 .project__button:hover .project__button-icon {
   transform: translateX(0.25rem);
+  
 }
 
 /* ACTIVE PROJECT */
