@@ -1,4 +1,5 @@
 import React from "react";
+import "./footer.css";
 
 const Footer = () => {
   return (
@@ -20,31 +21,38 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="skills" className="footer__link">
+            <a href="#skills" className="footer__link">
               Skills
             </a>
           </li>
         </ul>
 
         <div className="footer__social">
-        <a href="https://www.linkedin.com/in/shashidharsangepu/" className="home__social-icon" target="_blank">
-        <i class="uil uil-linkedin-alt"></i>
-      </a>
-      <a
-        href="https://github.com/Shashi5657"
-        className="home__social-icon"
-        target="_blank"
-      >
-        <i class="uil uil-github-alt"></i>
-      </a>
-      <a
-        href="https://www.instagram.com/mr.villain29/"
-        className="home__social-icon"
-        target="_blank"
-      >
-        <i className="uil uil-instagram"></i>
-      </a>
+          <a
+            href="https://www.linkedin.com/in/shashidharsangepu/"
+            className="footer__social-link"
+            target="_blank"
+          >
+            <i class="bx bxl-linkedin"></i>
+          </a>
+          <a
+            href="https://github.com/Shashi5657"
+            className="footer__social-link"
+            target="_blank"
+          >
+            <i class="bx bxl-github"></i>
+          </a>
+          <a
+            href="https://www.instagram.com/mr.villain29/"
+            className="footer__social-link"
+            target="_blank"
+          >
+            <i className="bx bxl-instagram"></i>
+          </a>
         </div>
+        <span className="footer__copy">
+          &#169; Shashidhar Sangepu. All Rights Reserved
+        </span>
       </div>
     </footer>
   );
