@@ -52,7 +52,7 @@ const Qualification = () => {
                   Computer Science
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2019-2023
+                  <i className="uil uil-calender-alt"></i>2017-2021
                 </div>
               </div>
               <div>
@@ -73,7 +73,7 @@ const Qualification = () => {
                   MPC, Mathematics
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2017-2019
+                  <i className="uil uil-calender-alt"></i>2015-2017
                 </div>
               </div>
             </div>
@@ -88,12 +88,12 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Developer</h3>
+                <h3 className="qualification__title">Full Stack Developer(MERN)</h3>
                 <span className="qualification__subtitle">
-                  Anudeep foundation
+                  Cagen Technologies Pvt Ltd
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021-2022
+                  <i className="uil uil-calender-alt"></i>2021-present
                 </div>
               </div>
               <div>
@@ -111,10 +111,10 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Java Developer</h3>
-                <span className="qualification__subtitle">HulkHire - Hyd</span>
+                <h3 className="qualification__title">Freelancing</h3>
+                <span className="qualification__subtitle">Frontend Developer</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2023 Sep-2023 Dec
+                  <i className="uil uil-calender-alt"></i>2022-2023
                 </div>
               </div>
             </div>
